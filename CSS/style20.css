@@ -10,6 +10,8 @@
 :root {
   /* || FONT */
   --FF: "Nunito", sans-serif;
+  --Fs: 1rem;
+  --FS-XL: 3rem;
 
   /* || COLOR */
   --BGCOLOR: #475569;
