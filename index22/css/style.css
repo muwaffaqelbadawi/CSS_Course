@@ -81,7 +81,8 @@ div:last-child:hover {
     animation-direction: alternate; 
     animation-fill-mode: forwards; */
 
-    animation: 5s ease-in-out 1s 2 forwards}
+    animation: 5s ease-in-out 1s 2 forwards;
+}
 
 @keyframes slide {
     0% {
